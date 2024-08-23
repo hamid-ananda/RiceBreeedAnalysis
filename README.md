@@ -13,7 +13,7 @@ Overall, these findings suggest that the Cammeo variety is characterized by larg
 ## Visualizations
 
 ### Box Plot of Area by Rice Class
-![Box Plot]([box_plot_area_by_class.png](https://github.com/hamid-ananda/RiceBreeedAnalysis/blob/main/BoxPlotofAreabyRiceClass.png)
+![Box Plot]([box_plot_area_by_class.png](https://raw.githubusercontent.com/hamid-ananda/RiceBreeedAnalysis/main/BoxPlotofAreabyRiceClass.png)
 
 ### Histogram of Area by Rice Class
 ![Histogram](https://raw.githubusercontent.com/hamid-ananda/RiceBreeedAnalysis/main/HistogramofAreabyRiceClass.png)
