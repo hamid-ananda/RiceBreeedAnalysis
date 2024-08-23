@@ -13,16 +13,16 @@ Overall, these findings suggest that the Cammeo variety is characterized by larg
 ## Visualizations
 
 ### Box Plot of Area by Rice Class
-![Box Plot]([box_plot_area_by_class.png](https://github.com/hamid-ananda/RiceBreeedAnalysis/blob/main/BoxPlotofAreabyRiceClass.png))
+![Box Plot]([box_plot_area_by_class.png](https://github.com/hamid-ananda/RiceBreeedAnalysis/blob/main/BoxPlotofAreabyRiceClass.png)
 
 ### Histogram of Area by Rice Class
 ![Histogram](https://raw.githubusercontent.com/hamid-ananda/RiceBreeedAnalysis/main/HistogramofAreabyRiceClass.png)
 
 ### Pair Plot of Rice Attributes
-![Pair Plot](pair_plot_rice_attributes.png)
+![Pair Plot](https://raw.githubusercontent.com/hamid-ananda/RiceBreeedAnalysis/main/PairPlotofRiceAttributes.png)
 
 ### Scatter Plot of Major vs. Minor Axis Length
-![Scatter Plot](scatter_plot_major_minor_axis_length.png)
+![Scatter Plot](https://raw.githubusercontent.com/hamid-ananda/RiceBreeedAnalysis/main/ScatterPlotofMajorvsMinorAxisLength.png)
 
 ### Correlation Heatmap of Rice Attributes
-![Correlation Heatmap](correlation_heatmap_rice_attributes.png)
+![Correlation Heatmap](https://raw.githubusercontent.com/hamid-ananda/RiceBreeedAnalysis/main/CorrelationHeatmapofRiceAttributes.png)
